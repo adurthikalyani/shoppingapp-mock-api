@@ -1,0 +1,9 @@
+{
+    "users":[
+        {"id":1, "name":"kalyani","email":"kalyani@gmail.com","password":"123"},
+        {"id":2, "name":"lakshmi","email":"lakshmi@gmail.com","password":"abc"}
+    ],
+    "cart":[
+
+    ]
+}
